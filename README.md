@@ -2,6 +2,6 @@ Hit the run button to compile the program. Enter how many floors you would like 
 
 Jaya: I worked on the main.cpp, Elevator.h, and Elevator.cpp file. 
 
-Shun: I worked on the Request.h and RequestManger.h file. 
+Shun: I worked on Request.h and RequestManager.h, and added request-handling code in main.cpp. 
 
 We both helped organize the code and we both combined our code. 
